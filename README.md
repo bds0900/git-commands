@@ -11,3 +11,4 @@
 > git reset --soft HEAD~1
 ## git log --all --decorate --oneline --graph
 ## git log --simplify-by-decoration
+## git commit -am "message"
